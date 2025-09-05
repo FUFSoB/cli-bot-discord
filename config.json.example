@@ -1,0 +1,23 @@
+{
+    "bots": {
+        "NAME": {
+            "token": "BOT_TOKEN",
+            "bot": true,
+            "real": true,
+            "intents": "all"
+        }
+    },
+    "root": [
+        USER_ID
+    ],
+    "mongo": {
+        "username": "USERNAME",
+        "password": "PASSWORD"
+    },
+    "lastfm": {
+        "key": "LASTFM_KEY",
+        "secret": "LASTFM_SECRET"
+    },
+    "other": {},
+    "other_accounts": {}
+}
